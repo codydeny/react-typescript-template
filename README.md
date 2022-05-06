@@ -11,30 +11,38 @@ A Custom react template bootstrapped from [Create React App](https://github.com/
 - [StoryBooks](https://storybook.js.org/)
 
 ## Get Started
+```
+ git clone https://github.com/codydeny/react-typescript-template.git
+ 
+ cd react-typescript-template
+```
+<br/>
+
+optionally you can update project name in `package.json`<br/>
 
 ## Code Structure
 
-├───components
-│   ├───common
-│   │   ├───footer
-│   │   ├───header
-│   │   └───notification
-│   └───layout
-├───constants
-├───core
-│   ├───customHooks
-│   ├───routes
-│   │   └───definations
-│   └───theme
-├───pages
-├───stores
-│   ├───global
-│   │   └───models
-│   └───notification
-│       └───models
-├───stories
-│   └───assets
-└───utils
+* components
+  * common
+  * footer
+  * header
+  * notification
+  * layout
+* constants
+* core
+  * customHooks
+  * routes
+    * definations
+  * theme
+* pages
+* stores
+  * global
+    * models
+  * notification
+    * models
+* stories
+  * assets
+* utils
 
 ## Available Scripts
 
